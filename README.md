@@ -6,5 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/coderjolly/coderjolly/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/coderjolly/coderjolly/blob/main/assets/dino-game.gif" width="500">
+<br>
 </p>
